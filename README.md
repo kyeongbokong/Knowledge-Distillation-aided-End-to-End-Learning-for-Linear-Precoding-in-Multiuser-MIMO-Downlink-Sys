@@ -13,12 +13,10 @@ Run Limited_feedback_MU_Expanded_Final_8_2_4_scrating_no_hint_same_network.py
 
 This code is tested in Tensorflow 2.5 with RTX3090, but Tensorflow version 1 can also be used with small modifications.
 
-**Change**
-
+**Change**:
 import tensorflow.compat.v1 as tf, tf.disable_v2_behavior()
 
-**TO**
-
+**TO**:
 import tenforflow as tf
 
 
