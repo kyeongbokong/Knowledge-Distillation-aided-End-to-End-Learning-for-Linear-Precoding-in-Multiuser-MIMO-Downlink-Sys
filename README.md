@@ -1,6 +1,6 @@
 # Knowledge-Distillation-aided-End-to-End-Learning-for-Linear-Precoding-in-Multiuser-MIMO-Downlink-System
 
-With Knowledge distillation:
+**With Knowledge distillation:**
 
 Run Limited_feedback_MU_Expanded_Final_8_2_4_scrating_hint_same_network.py
 
